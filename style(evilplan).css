@@ -1,0 +1,83 @@
+
+.body{
+    background:plum;
+}
+
+.headhehe{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+}
+
+.header{
+    height:100px;
+    border:10px ridge rgb(107, 189, 130);
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4eADJ6BNljv_-IVB96emp7uChfu2yJhk3iQuU-YVqZVu-k7A-2UHyXH5BGFDNdVl-YA&usqp=CAU");
+    display:flex;
+    justify-content:center;
+}
+
+.formdiv{
+    background-image:url("https://i.stack.imgur.com/5sa3Y.png");
+}
+
+.formitem{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    gap:1rem;
+    margin-bottom:2rem;
+}
+
+.formitem input{
+    font-size:20px;
+    padding:0.5rem;
+}
+
+.formitem label{
+    margin-top:2.7rem;
+    display:flex;
+    justify-content:center;
+    font-size:20px;
+    font-weight:600;
+    color:rgb(255, 255, 255);
+}
+
+.formitem button{
+    border:none;
+    padding:0.7rem 1.5rem;
+    color:black;
+    background:rgb(255, 234, 0);
+    font-size:20px;
+    font-weight:600;
+    border-radius:2rem;
+    margin-top:3rem;
+    margin-bottom:5rem;
+}
+
+.crazy{
+    height:90px;
+    width:90px;
+    margin-top:0.3rem;
+}
+
+.link{
+    margin-top:2rem;
+    margin-left:5rem;
+    display:flex;
+    justify-content:center;
+    color:white;
+    text-decoration:none;
+    font-size:20px;
+    font-weight:600;
+}
+
+.imgdiv{
+    display:flex;
+    justify-content:center;
+}
+
+.imgcrazy{
+    height:600px;
+    width:100%;
+}
